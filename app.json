@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Realio",
+    "slug": "realio",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F4FF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.realio.app"
+    },
+    "android": {
+      "package": "com.realio.app"
+    }
+  }
+}
